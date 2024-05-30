@@ -1,1 +1,1 @@
-home page on Parallax effects
+home page using Parallax effects
